@@ -4,6 +4,7 @@ img {
   text-align: center;
   position: center;
   margin: auto;
+  margin-top: 10px;
 }
 
 img.overflowingVertical {
