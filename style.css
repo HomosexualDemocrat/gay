@@ -23,10 +23,3 @@ img.transparent {
   background: hsl(0,0%,90%) url("chrome://global/skin/media/imagedoc-lightnoise.png");
   color: #222;
 }
-
-.gimg {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
